@@ -1,0 +1,84 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.10) (preloaded format=xelatex 2020.11.9)  9 NOV 2020 13:58
+entering extended mode
+**./sentdexDADocumentation.tex
+(sentdexDADocumentation.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(C:\Users\andre\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\andre\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count171
+\c@section=\count172
+\c@subsection=\count173
+\c@subsubsection=\count174
+\c@paragraph=\count175
+\c@subparagraph=\count176
+\c@figure=\count177
+\c@table=\count178
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\andre\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+)
+(C:\Users\andre\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
+ex.def
+File: l3backend-xetex.def 2020-09-24 L3 backend support: XeTeX
+\g__graphics_track_int=\count179
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count180
+\g__pdf_backend_annotation_int=\count181
+) (sentdexDADocumentation.aux)
+\openout1 = `sentdexDADocumentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+.
+
+(C:\Users\andre\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+
+[1
+
+] (sentdexDADocumentation.aux) ) 
+Here is how much of TeX's memory you used:
+ 480 strings out of 412249
+ 9297 string characters out of 2851353
+ 281162 words of memory out of 3000000
+ 19997 multiletter control sequences out of 15000+200000
+ 537864 words of font info for 43 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 41i,6n,47p,170b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on sentdexDADocumentation.pdf (1 page).

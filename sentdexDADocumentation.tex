@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Sentdex Data Analysis Tutorial }
+\author{Andrew Appuhamy}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Pandas Features}
+\setlength{\parskip}{1em}
+A 25 moving average uses 25 data points to calculate the average, done through pandas using following syntax:
+
+df['COLUMN NAME'].rolling(25).mean().plot() 
+
+dataframe(df) must be first sorted using sort\_index(inplace=True)
+
+\par
+Create new column in data using the following syntax the above example of 25 point moving average can be used here:
+
+df['NEW COLUMN NAME'] = df['COLUMN NAME'].rolling(25).mean()
+
+The plot() library is disregarded for the column implementation. 
+
+
+\end{document}
